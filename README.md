@@ -1,5 +1,7 @@
 # Customer Personality Analysis
 
+<a href="https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis">Customer Personality Analysis Dataset</a>
+
 ## Insights
 
 *Median income:* **USD 51 371**<br>
