@@ -5,7 +5,7 @@
 ## Insights
 
 *Median income:* **USD 51 371**<br>
-*Median Expenditure:* **USD 395.5**<br>*Median Recency:* **49 days**<br>*Median Seniority:* **115 months**<br>9*7.56 % at least with a undergraduate degree*<br>*Prefer channel to bought -->> Store*
+*Median Expenditure:* **USD 395.5**<br>*Median Recency:* **49 days**<br>*Median Seniority:* **115 months**<br>*97.56 % at least with a undergraduate degree*<br>*Prefer channel to buy -->> Store*
 
 ### Group: 0, *(customers: 532)*
 
