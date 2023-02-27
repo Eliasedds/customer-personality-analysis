@@ -16,12 +16,6 @@
   *   Single: 57 %.
   *   Divorced: 33 %.
   *   Widow: 10 %.
-
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
 *   With children, 70 % with 1 child.
 *   Most discount purchases made -- 2950 purchases.
 *   Purchases by channel (Order Z -> A):
