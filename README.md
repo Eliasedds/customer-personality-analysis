@@ -9,7 +9,7 @@
 
 ### Group: 0, *(customers: 532)*
 
-*   It is the group which has spent less money -- **USD 210 416**
+*   It is the group which has spent less money -- **USD 210 416**.
 *   4th group that accepts more offers.
 *   3 most bought product categories: [wines, meat, gold].
 *   Not in a couple (Order Z -> A): Single: 57 %, Divorced: 33 % and Widow: 10 %.
@@ -20,9 +20,9 @@
 
 ### Group: 1, *(customers: 1048)*
 
-*   It is the group which has spent more money -- **USD 435 092**
+*   It is the group which has spent more money -- **USD 435 092**.
 *   2nd group that accepts more offers.
-*   3 most bought product categories: [wines, meat, gold]
+*   3 most bought product categories: [wines, meat, gold].
 *   In a couple (Order Z -> A): Married: 60 % and Together: 40 %.
 *   With children, 71 % with 1 child.
 *   Group with more website visits in the last month.
@@ -32,7 +32,7 @@
 
 ### Group: 2, *(customers: 380)* 
 
-*   It is the 2nd group which has spent more money -- **USD 418 747**
+*   It is the 2nd group which has spent more money -- **USD 418 747**.
 *   Group that accepts more offers.
 *   3 most bought product categories: [wines, meat, fish].
 *   In a couple (Order Z -> A): Married: 60 % and Together: 40 %.
